@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_ic_remove_circle.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/ic_remove_circle.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_ic_splash.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/ic_splash.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_restaurant_menu.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_button_bg.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_recycler_restaurant_list_row.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/recycler_restaurant_list_row.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_phone_auth.png.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/phone_auth.png"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_menu_list_row.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/menu_list_row.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_placeyourorder_list_row.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/placeyourorder_list_row.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_splash.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_place_your_order.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_ic_add_circle.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_edit_text_bg.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/drawable_otp_verification.jpg.flat",
+        "source": "com.demo.zoomdash.app-main-28:/drawable/otp_verification.jpg"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/raw_restaurant.json.flat",
+        "source": "com.demo.zoomdash.app-main-28:/raw/restaurant.json"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_success_order.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_success_order.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_phone.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_phone.xml"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.demo.zoomdash.app-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.demo.zoomdash.app-merged_res-26:/layout_activity_otpactivity.xml.flat",
+        "source": "com.demo.zoomdash.app-main-28:/layout/activity_otpactivity.xml"
+    }
+]

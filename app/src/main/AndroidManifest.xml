@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.demo.foodorderanddeliveryappkotlin">
+    package="com.demo.zoomdash">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
         android:allowBackup="true"
@@ -12,16 +14,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodOrderAndDeliveryAppKotlin">
         <activity
-            android:name=".SuccessOrderActivity"
+            android:name="com.demo.zoomdash.OTPActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.demo.zoomdash.PhoneActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.demo.zoomdash.SuccessOrderActivity"
             android:exported="true" />
         <activity
-            android:name=".PlaceYourOrderActivity"
+            android:name="com.demo.zoomdash.PlaceYourOrderActivity"
             android:exported="true" />
         <activity
-            android:name=".RestaurantMenuActivity"
+            android:name="com.demo.zoomdash.RestaurantMenuActivity"
             android:exported="true" />
         <activity
-            android:name=".SplashActivity"
+            android:name="com.demo.zoomdash.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,7 +38,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.demo.zoomdash.MainActivity"
             android:exported="true" />
     </application>
 
